@@ -15,10 +15,15 @@ Deskripsi singkat diri yang berisi blog, skill, latar belakang pendidikan, serti
 - Jelaskan cara clone project
 - Kalau ada requiremnt tertentu untuk jalanin aplikasinya juga dijelaskan, misal harus download npm 
 
-# Deployment 📦
+# Deployment
 
 - Jelaskan langkah langkah deployment
 - Entah itu secara local ataupun ke jasa hosting
+
+# Output
+
+- Tunjukkan gambar outputnya, kalau berbentuk website tunjukkan screenshot halaman-halamannya
+- kalau berbentuk aplikasi tunjukkan screenshot beberapa fungsi/fiturnya
 
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
@@ -28,7 +33,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
   </a>
 </p>
 
-# Technologies used 🛠️
+# Technologies used
 
 - [React](https://reactjs.org/)
 - [graphql](https://graphql.org/)
@@ -37,11 +42,11 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 - [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
 
-# License 📄
+# License
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
-# Contributors ✨
+# Contributors
 
 <table>
   <tbody>
